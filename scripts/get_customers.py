@@ -189,9 +189,6 @@ def get_from_clist(output_destination,list_file):
     
 if __name__ == "__main__":
     main()
-    #customers_df = get_customers_sample(n=50000)
-    #customers_df.to_csv('/project/customers_df/customer_list_600k.csv',index=False)
-    #customers_df.to_csv('/project/customers_df/customer_pickle_600k.csv',index=False)
-    #print('total unique customer_id = ', get_total_customers())
+
 
     

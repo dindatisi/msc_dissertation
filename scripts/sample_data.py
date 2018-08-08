@@ -73,8 +73,6 @@ def magic():
     gwyn.get_em_all(df,'/project/samples/new/sample_mixed_105k.pickle')
     
 def main():
-    #generate_additional_chunks()
-    #get_additional_df()
     magic()
 
 if __name__ == "__main__":
